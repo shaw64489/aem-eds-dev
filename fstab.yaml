@@ -1,2 +1,6 @@
 mountpoints:
-  /: https://author-p44761-e210971.adobeaemcloud.com/
+/:
+  url: https://<aem-author>/bin/franklin.delivery/shaw64489/aem-eds-dev/main
+  type: "markup"
+  suffix: ".html"
+  
